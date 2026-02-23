@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /dist/
+Disallow: /*.json$
+
+Sitemap: https://miagendia.com/sitemap.xml
